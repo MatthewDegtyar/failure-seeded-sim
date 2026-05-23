@@ -2,7 +2,7 @@
 
 Frozen 2026-05-22, **before** running `experiment.step5_payoff`. Step-1
 through Step-4 outputs are saved to `data/`. Inversion error from Step 3
-is known and reported in `results.md`; this pre-registration is written
+is known and reported in `README.md`; this pre-registration is written
 without observing any classifier outcomes.
 
 ## 1. What is being tested

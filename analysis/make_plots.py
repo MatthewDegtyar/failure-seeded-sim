@@ -1,4 +1,4 @@
-"""Generate the plots referenced in results.md."""
+"""Generate the plots referenced in README.md."""
 from __future__ import annotations
 
 import json
