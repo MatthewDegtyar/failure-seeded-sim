@@ -1,0 +1,12 @@
+{
+  "n_per_regime": 1500,
+  "n_test_per_class": 400,
+  "seed": 100,
+  "window_frac": 0.4,
+  "test_window_frac": 0.5,
+  "succ_rate_A": 0.6573333333333333,
+  "succ_rate_B": 0.019333333333333334,
+  "succ_rate_C": 0.04533333333333334,
+  "succ_rate_test": 0.5,
+  "test_n": 800
+}
